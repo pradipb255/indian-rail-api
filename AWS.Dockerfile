@@ -18,4 +18,5 @@ COPY . .
 
 # Command to run the application
 # CMD ["node", "lambda.js"]
+# comment for remove
 CMD ["lambda.handler"]
